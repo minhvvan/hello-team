@@ -46,7 +46,7 @@
  - Unity / C#
 
 ### 이미지
-![프로필](https://github.com/ShieldTanker)
+![프로필](https://github.com/ShieldTanker.png)
 
 ***
 ### 윤현제
