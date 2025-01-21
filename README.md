@@ -46,10 +46,32 @@
  - Unity / C#
 
 ### 이미지
-![프로필](https://github.com/ShieldTanker)
+![프로필](https://github.com/ShieldTanker.png)
+
+
+
+
+## 임진수 | 게임 개발자 🎮
+<a href="https://github.com/js-harang">
+    <img src="https://github.com/js-harang.png" width="100" height="100">
+</a>
+
+### 개발자 프로필
+
+- **좋아하는 게임**
+  - 로스트아크
+- **사용 엔진**
+  - Unity(cs)
+  - Unreal Engine(c++)
+- **사용 언어**
+  - cs
+  - c++
+  - Python
+  - JavaScript
 
 ***
 ### 윤현제
+GT-2-싱글플레이-기능-구현
 -이메일 : hjyoon573@gmail.com
 -좋아하는 게임 : 젤다의 전설
 -좋아하는 영화 : 비긴어게인
