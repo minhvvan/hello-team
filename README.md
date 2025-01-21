@@ -7,4 +7,4 @@ hello-team
 
     ##좋아하는 게임 장르: RPG, RTS, FPS
     
-    ![Alt](https://img.freepik.com/premium-vector/cute-blue-slime-inside-jar-image_1060684-8.jpg?w=826)
+    ![슬라임](https://img.freepik.com/premium-vector/cute-blue-slime-inside-jar-image_1060684-8.jpg)
