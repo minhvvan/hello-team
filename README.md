@@ -1,5 +1,4 @@
 # hello-team
-hello-team
 
 # 🎮 TEAM Developer
 
