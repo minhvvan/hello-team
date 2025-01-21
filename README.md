@@ -2,7 +2,7 @@
 
 # 🎮 TEAM Developer
 
-| ![김도윤](https://avatars.githubusercontent.com/u/1234567?s=200&v=4) | ![임진수](https://avatars.githubusercontent.com/u/2345678?s=200&v=4) | ![이민환](https://avatars.githubusercontent.com/u/3456789?s=200&v=4) | ![최윤재](https://avatars.githubusercontent.com/u/4567890?s=200&v=4) | ![윤현제](https://avatars.githubusercontent.com/u/5678901?s=200&v=4) |
+| <a href="https://github.com/ShieldTanker"><img src="https://github.com/ShieldTanker.png" width="100"></a> | <a href="https://github.com/js-harang"><img src="https://github.com/js-harang.png" width="100"></a> | <a href="https://github.com/minhvvan"><img src="https://github.com/minhvvan.png" width="100"></a> | <a href="https://github.com/toSlimetoo"><img src="https://github.com/toSlimetoo.png" width="100"></a> | <a href="https://github.com/hynje"><img src="https://github.com/hynje.png" width="100"></a> |
 |:---:|:---:|:---:|:---:|:---:|
 | **김도윤** | **임진수** | **이민환** | **최윤재** | **윤현제** |
 
