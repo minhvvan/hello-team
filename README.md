@@ -53,4 +53,4 @@
 이메일 : hjyoon573@gmail.com
 좋아하는 게임 : 젤다의 전설
 좋아하는 영화 : 비긴어게인
-![profile](./profileimg.jpg)
+![profile](https://github.com/hynje/hello-world/blob/main/profileimg.jpg?raw=true)
