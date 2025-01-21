@@ -18,7 +18,7 @@
  - Unreal Engine / C++
 
 ### 연락처
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/minhvvan)
 ---
 
 ##이름: 최윤재
