@@ -7,4 +7,4 @@ hello-team
 
     ##좋아하는 게임 장르: RPG, RTS,FPS
     
-    ![Alt text](slime.gif)
+    ![Alt text](./img/slime.gif)
