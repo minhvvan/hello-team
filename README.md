@@ -61,9 +61,6 @@
 </a>
 
 ### 개발자 프로필
-<a href="https://github.com/js-harang">
-    <img src="https://github.com/js-harang.png" width="100" height="100">
-</a>
 
 - **좋아하는 게임**
   - 로스트아크
