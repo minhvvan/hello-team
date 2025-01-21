@@ -25,4 +25,11 @@ hello-team
 - 최적화
 
 ### 연락처
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/minhvvan)
+
+---
+
+##이름: 최윤재
+
+##좋아하는 게임 장르: RPG, RTS, FPS
+
+![Alt text](img/slime.gif)
