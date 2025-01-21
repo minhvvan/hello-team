@@ -48,12 +48,8 @@
 ### 이미지
 ![프로필](https://github.com/ShieldTanker.png)
 
-***
-### 윤현제
-이메일 : hjyoon573@gmail.com
-좋아하는 게임 : 젤다의 전설
-좋아하는 영화 : 비긴어게인
-![profile](./profileimg.jpg)
+
+
 
 ## 임진수 | 게임 개발자 🎮
 <a href="https://github.com/js-harang">
@@ -72,3 +68,11 @@
   - c++
   - Python
   - JavaScript
+
+***
+### 윤현제
+GT-2-싱글플레이-기능-구현
+-이메일 : hjyoon573@gmail.com
+-좋아하는 게임 : 젤다의 전설
+-좋아하는 영화 : 비긴어게인
+![profile](https://github.com/hynje/hello-world/blob/main/profileimg.jpg?raw=true)
