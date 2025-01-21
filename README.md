@@ -8,7 +8,6 @@ hello-team
 | **김도윤** | **임진수** | **이민환** | **최윤재** | **윤현제** |
 
 ## 이민환 | 게임 개발자 🎮
-`게임을 향한 열정으로 새로운 경험을 만듭니다`
 
 ### 개발자 프로필
 - **좋아하는 게임**
@@ -19,11 +18,6 @@ hello-team
  - Unity / C#
  - Unreal Engine / C++
 
-### 개발 관심사
-- 게임 시스템 설계
-- 게임플레이 프로그래밍
-- 최적화
-
 ### 연락처
 
 ---
@@ -31,5 +25,5 @@ hello-team
 ##이름: 최윤재
 
 ##좋아하는 게임 장르: RPG, RTS, FPS
-
-![Alt text](img/slime.gif)
+    
+![Alt](https://img.freepik.com/premium-vector/cute-blue-slime-inside-jar-image_1060684-8.jpg?w=826)
