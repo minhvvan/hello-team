@@ -5,6 +5,6 @@ hello-team
 
     ##이름: 최윤재
 
-    ##좋아하는 게임 장르: RPG, RTS,FPS
+    ##좋아하는 게임 장르: RPG, RTS, FPS
     
-    ![Alt text](./img/slime.gif)
+    ![Alt text](img/slime.gif)
